@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: 18aa128f7ddecc54bb296e8954560d91
+labels:
+- Cookie
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
